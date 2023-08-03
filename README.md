@@ -10,7 +10,7 @@ O Banco Simples é um programa em Python que simula um sistema bancário básico
 
 ### Como executar o programa
 - Certifique-se de ter o Python instalado em seu sistema.
-- Faça o download do código-fonte do Banco Simples e salve-o em um arquivo com extensão .py (por exemplo, banco_simples.py).
+- Faça o download do código-fonte do Banco Simples.
 - Abra o terminal (ou prompt de comando) e navegue até o diretório onde o arquivo banco_simples.py foi salvo.
 - Execute o programa digitando o seguinte comando:
 
